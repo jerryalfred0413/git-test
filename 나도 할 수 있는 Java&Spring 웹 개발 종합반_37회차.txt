@@ -1,0 +1,32 @@
+강의실 입장
+https://kdc.fastcampus.co.kr/
+
+자바 개발 키트(Java Development Kit, JDK) 11 설치
+- 유료 버전 : https://www.oracle.com
+BCL(Binary Code License) : 개인적으로 사용하는 경우 무료
+구독형 라이선스(Subscription License) : 일정기간을 주기로 요금 지불
+- 무료 버전 : https://openjdk.java.net
+	https://openjdk.org/
+OpenJDK는 성능이나 안정성에 다소 문제가 있었지만, Java11부터는 OracleJDK와 거의 동일해짐
+
+https://jdk.java.net/24/ 링크 클릭
+
+Java SE 11
+https://jdk.java.net/java-se-ri/11-MR3
+c:\fcjava 폴더에 압축 풀어서 jdk-11.0.0.2 폴더를 jdk-11로 이름 바꿔서 옮기기
+
+PATH 설정
+
+내PC>마우스(R)>속성>시스템 
+또는
+윈도우키+Pause
+
+>고급 시스템 설정>환경 변수
+
+시스템 변수 JAVA_HOME 생성
+JAVA_HOME 환경변수 추가하고
+JAVA_HOME : c:\fcjava\jdk-11
+
+시스템 변수 Path에 추가
+Path에 JDK 설치 폴더에 있는 bin까지의 경로를 등록하고 상단으로 이동시키기
+%JAVA_HOME%\bin 
