@@ -380,4 +380,8 @@ $ git config --global init.defaultBranch [브랜치 이름]
 $ git status
 $ git rm --cached -r .
 $ git push -u origin main
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> aa88fb80b1dc3180614b3f15db67e9f1f5a8272f
