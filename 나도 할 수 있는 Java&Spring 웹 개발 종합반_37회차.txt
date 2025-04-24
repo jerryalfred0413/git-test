@@ -30,3 +30,27 @@ JAVA_HOME : c:\fcjava\jdk-11
 시스템 변수 Path에 추가
 Path에 JDK 설치 폴더에 있는 bin까지의 경로를 등록하고 상단으로 이동시키기
 %JAVA_HOME%\bin 
+
+
+--------------------------------------------------------------------
+JDK17버전
+https://jdk.java.net/java-se-ri/17-MR1
+
+IntelliJ
+https://www.jetbrains.com/ko-kr/idea/download/?section=windows
+
+STS
+https://spring.io/
+
+전자정부프레임워크
+https://egovframe.go.kr/home/sub.do?menuNo=65
+
+vs code
+https://code.visualstudio.com/download
+- Spring Boot Extension Pack
+- Live Server
+- Extension for Java
+- https://code.visualstudio.com/docs/languages/java
+
+https://start.spring.io/
+--------------------------------------------------------------------
