@@ -1,0 +1,15 @@
+https://jdk.java.net/java-se-ri/17-MR1
+
+https://www.jetbrains.com/ko-kr/idea/download/?section=windows
+
+https://spring.io/
+
+https://egovframe.go.kr/home/sub.do?menuNo=65
+
+https://code.visualstudio.com/download
+- Spring Boot Extension Pack
+- Live Server
+- Extension for Java
+- https://code.visualstudio.com/docs/languages/java
+
+https://start.spring.io/
